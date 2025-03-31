@@ -1,2 +1,2 @@
-https://solidstateman.github.io
+SolidStateman/SolidStateman.github.io
 
