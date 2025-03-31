@@ -1,2 +1,1 @@
-Mediakartta interaktiivinen
-https://solidstateman.github.io/mediakartta_interaktiivinen.html
+nttps://SolidStateman.github.io
