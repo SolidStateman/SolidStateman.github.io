@@ -1,1 +1,1 @@
-nttps://SolidStateman.github.io
+https://SolidStateman.github.io
