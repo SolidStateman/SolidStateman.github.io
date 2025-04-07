@@ -1,2 +1,0 @@
-SolidStateman/SolidStateman.github.io
-
